@@ -6,7 +6,7 @@ This repository is the communication hub for **MCP (Model Context Protocol) inte
 
 **For announcements only** (low noise):
 1. Go to [Discussions](../../discussions)
-2. In the Announcements category, click **Subscribe**
+2. Select the Announcements category, go to any message in the list, then click **Subscribe**
 
 You'll be notified of:
 - Protocol changes (SSE deprecation, Streamable HTTP updates)
